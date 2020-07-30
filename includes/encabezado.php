@@ -1,0 +1,3 @@
+	<header>
+		<h1>“EL PRIMER HOTEL BOUTIQUE DE SUCRE, UNO DE LOS PRIMEROS EN BOLIVIA”</h1>
+	</header>
